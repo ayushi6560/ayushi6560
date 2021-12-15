@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I am a python developer and deep learning/machine learning engineer with experience in Data science, backend scripting, RESTful APIs, web frameworks like Flask and Django, Redis, SQL, Data analytics. ai have worked on data extraction and applied advanced machine learning techniques like NLP, computer vision, recommendation systems to data heavy problems to create exceptional business value.
+
+Linkedin: https://www.linkedin.com/in/pyayushigupta/
+
